@@ -5,6 +5,8 @@
 1. Getting Started
 
 2. Primitive Types
+    - 2.5 Formatted Strings
+    - 2.9 Type Conversion
 
 3. Control Flow
 
