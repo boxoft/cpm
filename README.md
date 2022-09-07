@@ -9,6 +9,7 @@
     - 2.9 Type Conversion
 
 3. Control Flow
+    - 3.6 Chaining Comparison Operators
 
 4. Functions
 
