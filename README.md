@@ -12,6 +12,9 @@
     - 3.6 Chaining Comparison Operators
 
 4. Functions
+    - 4.6 *args
+    - 4.7 **args
+    - 4.8 Scope
 
 5. Data Structures
 
